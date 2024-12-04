@@ -7,4 +7,6 @@ original code:
 x = 3
 y = 4
 if x > y:
+    print("x is larger than y")
+elif x<y:
     print("y is larger than x")

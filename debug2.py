@@ -9,5 +9,7 @@ print(answer)
 """
 
 a = input("enter an integer")
+a = float(a)
 answer = a + 3
+answer = int(answer)
 print(answer)
